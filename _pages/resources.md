@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: home
 title: Resources
+author_profile: true
 permalink: /resources/
 ---
 Here you will find general resources important for the lab and hopefully useful for all visitors to our site. 

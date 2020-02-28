@@ -8,5 +8,5 @@ main:
     url: /people/
   - title: "Resources"
     url: /resources/
-  # - title: "Sitemap"
-   #  url: /sitemap/
+  - title: "Blog"
+    url: /blog/
