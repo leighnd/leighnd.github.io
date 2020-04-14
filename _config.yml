@@ -111,7 +111,8 @@ author:
   bio              : "Regenerative immunology"
   location         : "Lund, Sweden"
   email            : theleighlab@gmail.com
-  links:
+  
+links:
 #    - label: "Email"
  #     icon: "fas fa-fw fa-envelope-square"
   #    url: theleighlab@gmail.com #mailto:your.name@email.com
