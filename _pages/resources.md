@@ -1,7 +1,8 @@
 ---
 layout: home
 author_profile: true
-classes: wide 
+classes: wide
+description: salamander axolotl papers regeneration blastema single-cell 
 title: Publications and Resources
 permalink: /resources/
 ---
