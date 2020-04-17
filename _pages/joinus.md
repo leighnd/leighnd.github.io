@@ -1,8 +1,9 @@
 ---
 layout: home
+description: salamander regeneration jobs positions postdoc graduate student
 author_profile: true
 classes: wide 
-title: Join Us!
+title: Join us!
 permalink: /joinus/
 ---
 
@@ -20,6 +21,6 @@ You can find individual projects below, while we expect one person to be in the 
 
 2. This project is focused on the adaptive immune system and the interactions between adaptive immune cells and the progenitor cells required for regeneration. While we know there are adaptive immune cells in and around the tissue and cells undergoing regeneration we lack an undersatnding of how adaptive immune cells are influencing this process. Previous work understanding T or B cell function, vaccine design, antigen presentation, or haematopoietic transplantations would be fanastic, but again not required. As above, previous experience with salamanders is not required. 
 
-3. This project is a tag team effort between a computionally- and wet lab-based trainees. Beginning to tease out how cell type function compare across species is of importance in trying to determine why some species have better regenerative ability than others. This project is computationally focused and is aimed at examining cell type orthologies across species. The computional aspects of this project could hypothetically be done remotely and if your situation does not allow you to come to Lund/Sweden we could arrange, for example, a remote postdoc. Prior skills in analysing data from single-cell 'omics technologies would be highly preferable. In addition, an understanding of comparative genomics would be a bonus. As stated above, these projects would be collaborative and a wet-lab counterpart would also work on this project, taking finds from our computational work and working on in vitro and in vivo systems.
+3. This project is a tag team effort between a computionally- and wet lab-based trainees. Beginning to tease out how cell type function compare across species is of importance in trying to determine why some species have better regenerative ability than others. This project is computationally focused and is aimed at examining cell type orthologies across species. The computional aspects of this project could hypothetically be done remotely and if your situation does not allow you to come to Lund/Sweden we could arrange, for example, a remote postdoc. Prior skills in analysing data from single-cell 'omics technologies would be highly preferable. In addition, an understanding of comparative genomics would be a bonus. As stated above, these projects would be collaborative and a wet-lab counterpart would also work on this project, taking findings from our computational work and working on in vitro and in vivo systems.
 
-We have other projects in the works and are always happy to hear from people interested in joining the lab and for them to pitch any ideas that would be intersted to explore using the salamander model system!  
+We have other projects in the works and are always happy to hear from people interested in joining the lab and for them to pitch any ideas that would be interested to explore using the salamander model system!  

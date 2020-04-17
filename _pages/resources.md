@@ -30,11 +30,11 @@ Check out regenerating axolotl limb single-cell RNAseq data here:
 and the accompanying paper [Leigh et. al 2018](https://www.nature.com/articles/s41467-018-07604-0) 
 
 
-Also, processed data can be found [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE121737) and raw data [here](https://www.ncbi.nlm.nih.gov/sra?term=SRP167700). For help with processing these data please see this [GitHub page](https://github.com/brianjohnhaas/indrops)
+Also, processed data can be found [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE121737) and raw data [here](https://www.ncbi.nlm.nih.gov/sra?term=SRP167700). For help with processing these data please see this [GitHub page](https://github.com/brianjohnhaas/indrops).
 
 
 Other important resources: 
 
 
-Transcriptome and enrichment data from [Bryant et al 2017](https://portals.broadinstitute.org/axolotlomics/)
-Genome resources, BLAST, and datasets other tools at [Sal-site](https://ambystoma.uky.edu/) and [axolotl-omics](https://www.axolotl-omics.org/) 
+Transcriptome and enrichment data from [Bryant et al 2017](https://portals.broadinstitute.org/axolotlomics/).
+Genome resources, BLAST, datasets and other tools at [Sal-site](https://ambystoma.uky.edu/) and [axolotl-omics](https://www.axolotl-omics.org/) 
