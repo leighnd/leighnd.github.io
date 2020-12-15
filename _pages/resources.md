@@ -28,8 +28,11 @@ Stegmayr J, Alsafadi HN, Langwinski W, Niroomand A, Lindstedt S, Leigh ND, Wagne
 
 
 
+
+
 <div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.1101/842948"></div>{: .align-left}
 Leigh ND, Sessa S., Dragalzew AC, Payzin-Dogru D, Sousa JF, Aggouras AN, Johnson K, Dunlap GS, Haas BJ, Levin M, Schneider I, Whited JL. [von Willebrand factor D and EGF domains is an evolutionarily conserved and required feature of blastemas capable of multitissue appendage regeneration.](https://www.biorxiv.org/content/10.1101/842948v2.full) bioRxiv November 15, 2019.
+
 
 
 ## Resources:
