@@ -46,7 +46,7 @@ Also, processed data can be found [here](https://www.ncbi.nlm.nih.gov/geo/query/
 
 
 Other important resources: 
-
+BLAST against the Pleurodeles waltl transcriptome on [iNewt](https://www.nibb.ac.jp/imori/main/)
 
 Transcriptome and enrichment data from [Bryant et al 2017](https://portals.broadinstitute.org/axolotlomics/).
 Genome resources, BLAST, datasets and other tools at [Sal-site](https://ambystoma.uky.edu/) and [axolotl-omics](https://www.axolotl-omics.org/) 
