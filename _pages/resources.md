@@ -15,7 +15,6 @@ Leigh ND, Currie JD. [Rebuilding limbs, one cell at a time.](https://anatomypubs
 <br />
 <br />
 <br />
-<br /> 
 <div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.1152/ajplung.00401.2020"></div>{: .align-left}
 Stegmayr J, Alsafadi HN, Langwinski W, Niroomand A, Lindstedt S, Leigh ND, Wagner DE. [Isolation of high yield and quality RNA from human precision-cut lung slices for RNA-sequencing and computational integration with larger patient cohorts.](https://journals.physiology.org/doi/pdf/10.1152/ajplung.00401.2020) AJP Lung and Cellular and Molecular Physiology. 28 Oct 2020. 
 
@@ -31,9 +30,9 @@ Leigh ND, Dunlap GS, Johnson K, Mariano R, Oshiro R, Wong AY, Bryant DM, Miller 
 ## Pre-prints:
 <div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.1101/2020.08.21.254516"></div>{: .align-left}
 Stegmayr J, Alsafadi HN, Langwinski W, Niroomand A, Lindstedt S, Leigh ND, Wagner DE. [Isolation of high yield and quality RNA from human precision-cut lung slices for RNA-sequencing and computational integration with larger patient cohorts.](https://www.biorxiv.org/content/10.1101/2020.08.21.254516v1) bioRxiv August 22, 2020.
-/
-/
-/
+<br />
+<br />
+<br />
 
 <div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.1101/842948"></div>{: .align-left}
 Leigh ND, Sessa S., Dragalzew AC, Payzin-Dogru D, Sousa JF, Aggouras AN, Johnson K, Dunlap GS, Haas BJ, Levin M, Schneider I, Whited JL. [von Willebrand factor D and EGF domains is an evolutionarily conserved and required feature of blastemas capable of multitissue appendage regeneration.](https://www.biorxiv.org/content/10.1101/842948v2.full) bioRxiv November 15, 2019.
