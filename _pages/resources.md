@@ -12,12 +12,10 @@ Here you will find our publications and accompanying resources. For a full list 
 ## Publications:
 <div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.1002/dvdy.463"></div>{: .align-left}
 Leigh ND, Currie JD. [Rebuilding limbs, one cell at a time.](https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/dvdy.463?af=R) Developmental Dynamics. In Press 2022.  
-  
-  
-  
-  
-
- 
+<br />
+<br />
+<br />
+<br /> 
 <div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.1152/ajplung.00401.2020"></div>{: .align-left}
 Stegmayr J, Alsafadi HN, Langwinski W, Niroomand A, Lindstedt S, Leigh ND, Wagner DE. [Isolation of high yield and quality RNA from human precision-cut lung slices for RNA-sequencing and computational integration with larger patient cohorts.](https://journals.physiology.org/doi/pdf/10.1152/ajplung.00401.2020) AJP Lung and Cellular and Molecular Physiology. 28 Oct 2020. 
 
