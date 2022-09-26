@@ -11,7 +11,9 @@ Here you will find our publications and accompanying resources. For a full list 
 
 ## Publications:
 <div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.1002/dvdy.463"></div>{: .align-left}
-Leigh ND, Currie JD. [Rebuilding limbs, one cell at a time.](https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/dvdy.463?af=R) Developmental Dynamics. In Press 2022.  
+Leigh ND, Currie JD. [Rebuilding limbs, one cell at a time.](https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/dvdy.463?af=R) Developmental Dynamics. 16 February 2022.  
+<br />
+<br />
 <br />
 <br />
 <br />
