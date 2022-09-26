@@ -17,12 +17,14 @@ Leigh ND, Currie JD. [Rebuilding limbs, one cell at a time.](https://anatomypubs
 <br />
 <div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.1152/ajplung.00401.2020"></div>{: .align-left}
 Stegmayr J, Alsafadi HN, Langwinski W, Niroomand A, Lindstedt S, Leigh ND, Wagner DE. [Isolation of high yield and quality RNA from human precision-cut lung slices for RNA-sequencing and computational integration with larger patient cohorts.](https://journals.physiology.org/doi/pdf/10.1152/ajplung.00401.2020) AJP Lung and Cellular and Molecular Physiology. 28 Oct 2020. 
-
-
+<br />
+<br />
+<br />
 <div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.1111/ede.12332"></div>{: .align-left}
 Leigh ND, Sessa S., Dragalzew AC, Payzin-Dogru D, Sousa JF, Aggouras AN, Johnson K, Dunlap GS, Haas BJ, Levin M, Schneider I, Whited JL. [von Willebrand factor D and EGF domains is an evolutionarily conserved and required feature of blastemas capable of multitissue appendage regeneration.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ede.12332) Evolution & Development. 2020; 1– 15.
-
-
+<br />
+<br />
+<br />
 <div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.1038/s41467-018-07604-0"></div>{: .align-left}
 Leigh ND, Dunlap GS, Johnson K, Mariano R, Oshiro R, Wong AY, Bryant DM, Miller BM, Ratner A, Chen A, Ye WW, Haas BJ, Whited JL. [Transcriptomic landscape of the blastema niche in regenerating adult axolotl limbs at single-cell resolution.](https://www.nature.com/articles/s41467-018-07604-0) Nature Communications 2018 9; 5153.
 
