@@ -12,7 +12,7 @@ position: aka Legends
 <p> <a href="https://www.linkedin.com/in/annika-mordelt-0345511b0"> Annika Mordelt </a> </p>
 <p> <a href="https://www.linkedin.com/in/josefin-johansson-a23269a4"> Josefin Johansson </a> </p>
 <p> <a href="https://www.linkedin.com/in/helendemollin/"> Helen Demollin </a> </p>
-
+<p> <a href="https://www.linkedin.com/in/rohit-s-prasad/"> Rohit Sivaprasad </a> </p>
 
 <h4> BS Students </h4>
 <p> <a href="https://www.linkedin.com/in/vanessamarrone"> Vanessa Marrone </a> </p>
