@@ -1,7 +1,7 @@
 ---
 
 name: Lennart Rikk
-position: Master's Student
+position: Intern
 
 ---
 

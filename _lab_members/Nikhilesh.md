@@ -1,7 +1,7 @@
 ---
 
 name: Nikhilesh Vasanthakumar
-position: Master's student
+position: Intern
 
 ---
 
