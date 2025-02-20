@@ -10,6 +10,13 @@ Here you will find our publications and accompanying resources. For a full list 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 ## Publications:
+<div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.1016/j.xgen.2025.100761"></div>{: .align-left}
+Brown T*, Mishra K*, Elewa A*, Iarovenko S*, Subramanian E, Joven Araus A, Petzold A, Fromm B, Friedländer MR, Rikk L, Suzuki M, Suzuki KT, Hayashi T, Toyoda A, Oliveira CR, Osipova E, Leigh ND*, Yun MH*, Simon A*. [Chromosome-scale genome assembly reveals how repeat elements shape non-coding RNA landscapes active during newt limb regeneration](https://www.life-science-alliance.org/content/6/8/e202301979). Cell Genomics. 27 January 2025.*equal contribution
+<br />
+<br />
+<br />
+<br />
+<br />
 <div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.26508/lsa.202301979"></div>{: .align-left}
 Cardiello JF, Araus AJ, Giatrellis S, Simon A, Leigh ND. [Evaluation of genetic demultiplexing of single-cell sequencing data from model species](https://www.life-science-alliance.org/content/6/8/e202301979). Life Science Alliance. 17 May 2023. 
 <br />
@@ -40,6 +47,11 @@ Leigh ND, Dunlap GS, Johnson K, Mariano R, Oshiro R, Wong AY, Bryant DM, Miller 
 
 ## Pre-prints:
 <br />
+<div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.1101/2022.10.19.512763"></div>{: .align-left}
+Brown T, Elewa A, Iarovenko S, Subramanian E, Araus AJ, Petzold A, Suzuki M, Suzuki KT, Hayashi T, Toyoda A, Oliveira C, Osipova E, Leigh ND*, Simon A*, Yun MH*. [Sequencing and chromosome-scale assembly of the giant Pleurodeles waltl genome](https://www.biorxiv.org/content/10.1101/2022.10.19.512763v1.full) bioRxiv October 22, 2022.*equal contribution
+<br />
+<br />
+<br />
 <div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.1101/2022.09.22.508993"></div>{: .align-left}
 Cardiello JF, Araus AJ, Giatrellis S, Simon A, Leigh ND. [Accurate genotype-based demultiplexing of single cell RNA sequencing samples from non-human animals.](https://www.biorxiv.org/content/10.1101/2022.09.22.508993v1) bioRxiv Septermber 23, 2022.
 <br />
@@ -63,6 +75,12 @@ Leigh ND, Sessa S., Dragalzew AC, Payzin-Dogru D, Sousa JF, Aggouras AN, Johnson
 
 [Our labs GitHub page](https://github.com/RegenImm-Lab). 
 
+<i>Pleurodeles waltl</i> genome assembly with our annotation [here](https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.90C1ND)
+<br />
+<i>Pleurodeles waltl</i> genome assembly and RefSeq annotation are [here](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_031143425.1/)
+<br />
+<b>NOTE:</b> RefSeq chose to annotate a haplotype assembly and thus there are differences in contiguity, annotation, and coordinates between these two references. 
+
 Check out regenerating axolotl limb single-cell RNAseq data here:
 [single-cell data](https://singlecell.broadinstitute.org/single_cell/study/SCP422/transcriptomic-landscape-of-the-blastema-niche-in-regenerating-adult-axolotl-limbs-at-single-cell-resolution-intact-limb)
 and the accompanying paper [Leigh et. al 2018](https://www.nature.com/articles/s41467-018-07604-0) 
@@ -71,8 +89,8 @@ and the accompanying paper [Leigh et. al 2018](https://www.nature.com/articles/s
 Also, processed data can be found [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE121737) and raw data [here](https://www.ncbi.nlm.nih.gov/sra?term=SRP167700). For help with processing these data please see this [GitHub page](https://github.com/brianjohnhaas/indrops).
 
 
-Other important resources: 
-BLAST against the Pleurodeles waltl transcriptome on [iNewt](https://www.nibb.ac.jp/imori/main/)
+## Other important resources:
+BLAST against a <i>Pleurodeles waltl</i> de novo transcriptome on [iNewt](https://www.nibb.ac.jp/imori/main/)
 
 Transcriptome and enrichment data from [Bryant et al 2017](https://portals.broadinstitute.org/axolotlomics/).
 Genome resources, BLAST, datasets and other tools at [Sal-site](https://ambystoma.uky.edu/) and [axolotl-omics](https://www.axolotl-omics.org/) 
