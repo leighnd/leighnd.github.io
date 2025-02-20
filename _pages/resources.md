@@ -16,9 +16,6 @@ Here you will find our publications and accompanying resources. For a full list 
 </p>
 <img src="../assets/images/CellGenomics_cover.jpg" alt="Image" class="align-right">
 Check out a thread on this paper [here](https://bsky.app/profile/niche-leigh.bsky.social/post/3li33wwysek2a)
-
-<div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.1016/j.xgen.2025.100761"></div>{: .align-left} Brown T<span>&#42;</span>, Mishra K<span>&#42;</span>, Elewa A<span>&#42;</span>, Iarovenko S<span>&#42;</span>, Subramanian E, Joven Araus A, Petzold A, Fromm B, Friedländer MR, Rikk L, Suzuki M, Suzuki KT, Hayashi T, Toyoda A, Oliveira CR, Osipova E, Leigh ND✉️ ,Yun MH✉️, Simon A✉️. <a href="https://www.life-science-alliance.org/content/6/8/e202301979">Chromosome-scale genome assembly reveals how repeat elements shape non-coding RNA landscapes active during newt limb regeneration</a>. Cell Genomics. 27 January 2025.✉️  co-corresponding/last author, <span>&#42;</span> co-first author 
-<br />
 <br />
 <br />
 <br />
