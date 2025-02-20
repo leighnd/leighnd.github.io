@@ -86,8 +86,8 @@ collections:
   - lab_members
 
 # Social Sharing
-twitter:
-  username               : niche_leigh
+bluesky:
+  username               : niche-leigh
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -119,9 +119,9 @@ links:
    # - label: "Website"
     #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/niche_leigh"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/niche-leigh.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/leighnd"
@@ -132,9 +132,9 @@ links:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/niche_leigh"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/niche-leigh.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/leighnd"
