@@ -13,6 +13,9 @@ position: aka Legends
 <p> <a href="https://www.linkedin.com/in/josefin-johansson-a23269a4"> Josefin Johansson </a> </p>
 <p> <a href="https://www.linkedin.com/in/helendemollin/"> Helen Demollin </a> </p>
 <p> <a href="https://www.linkedin.com/in/rohit-s-prasad/"> Rohit Sivaprasad </a> </p>
+<p> <a href="https://www.linkedin.com/in/nikhilesh23/"> Nikhilesh Vasanthakumar </a> </p>
+<p> <a href="https://www.linkedin.com/in/dhanuushbalakannan/"> Dhanuush Balakannan </a> </p>
+
 
 <h4> BS Students </h4>
 <p> <a href="https://www.linkedin.com/in/vanessamarrone"> Vanessa Marrone </a> </p>
