@@ -55,6 +55,11 @@ Leigh ND, Dunlap GS, Johnson K, Mariano R, Oshiro R, Wong AY, Bryant DM, Miller 
 
 ## Pre-prints:
 <br />
+<div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.64898/2026.03.27.714371"></div>{: .align-left}
+Rikk L, Ghaffarinia A, Leigh ND. [Novabrowse: A Tool for High-Resolution Synteny Analysis, Ortholog Detection, and Gene Signal Discovery](https://www.biorxiv.org/content/10.64898/2026.03.27.714371v1) bioRxiv March 30, 2026.
+<br />
+<br />
+<br />
 <div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.1101/2022.10.19.512763"></div>{: .align-left}
 Brown T<span>&#42;</span>, Elewa A<span>&#42;</span>, Iarovenko S<span>&#42;</span>, Subramanian E<span>&#42;</span>, Araus AJ, Petzold A, Suzuki M, Suzuki KT, Hayashi T, Toyoda A, Oliveira C, Osipova E, Leigh ND✉️ , Simon A✉️ , Yun MH✉️ . [Sequencing and chromosome-scale assembly of the giant Pleurodeles waltl genome](https://www.biorxiv.org/content/10.1101/2022.10.19.512763v1.full) bioRxiv October 22, 2022.✉️  co-corresponding/last author, <span>&#42;</span> co-first author
 <br />
