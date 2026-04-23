@@ -55,6 +55,11 @@ Leigh ND, Dunlap GS, Johnson K, Mariano R, Oshiro R, Wong AY, Bryant DM, Miller 
 
 ## Pre-prints:
 <br />
+<div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.64898/2026.04.13.718117"></div>{: .align-left}
+Harrison Umeano C, Oesterle M, Ghaffarinia A, Okeke U, Larsson N, Meena S, Bolech E, Consiglio CR, Eroglu E, Simon A, Leigh ND. [Adaptive immunity is dispensable for salamander appendage regeneration](https://www.biorxiv.org/content/10.64898/2026.04.13.718117v1.full) bioRxiv April 15, 2026.
+<br />
+<br />
+<br />
 <div class='altmetric-embed' data-badge-type='large-donut' data-badge-popover='right' data-doi="https://doi.org/10.64898/2026.03.27.714371"></div>{: .align-left}
 Rikk L, Ghaffarinia A, Leigh ND. [Novabrowse: A Tool for High-Resolution Synteny Analysis, Ortholog Detection, and Gene Signal Discovery](https://www.biorxiv.org/content/10.64898/2026.03.27.714371v1) bioRxiv March 30, 2026.
 <br />
