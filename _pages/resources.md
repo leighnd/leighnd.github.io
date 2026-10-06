@@ -24,10 +24,12 @@ permalink: /resources/
 ## Axolotl single cell:
 Check out regenerating axolotl limb single-cell RNAseq data here:
 [single-cell data](https://singlecell.broadinstitute.org/single_cell/study/SCP422/transcriptomic-landscape-of-the-blastema-niche-in-regenerating-adult-axolotl-limbs-at-single-cell-resolution-intact-limb)
-and the accompanying paper [Leigh et. al 2018](https://www.nature.com/articles/s41467-018-07604-0) 
+and the accompanying paper [Leigh et. al 2018](https://www.nature.com/articles/s41467-018-07604-0)
+
+Same dataset as above but new analysis (and alignment to the NCBI genome) and better functionality for data exploration can be found [here](https://axolotl-limb-regen-scrnaseq.serve.scilifelab.se/app/axolotl-limb-regen-scrnaseq) with associated pre-print [Umeano et. al 2026](https://www.biorxiv.org/content/10.64898/2026.04.13.718117v2)
 
 
-Also, processed data can be found [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE121737) and raw data [here](https://www.ncbi.nlm.nih.gov/sra?term=SRP167700). For help with processing these data please see this [GitHub page](https://github.com/brianjohnhaas/indrops).
+Also, processed data can be found [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE121737) and raw data [here](https://www.ncbi.nlm.nih.gov/sra?term=SRP167700). For help with processing these data as we did in Leigh et al 2018 please see this [GitHub page](https://github.com/brianjohnhaas/indrops) or as in the Umeano et al 2026 see this [GitHub page](https://github.com/RegenImm-Lab/adaptive_immune_limb_regen/tree/main).
 
 
 ## Other important resources:
