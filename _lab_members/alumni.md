@@ -16,6 +16,8 @@ position: aka Legends
 <p> <a href="https://www.linkedin.com/in/nikhilesh23/"> Nikhilesh Vasanthakumar </a> </p>
 <p> <a href="https://www.linkedin.com/in/dhanuushbalakannan/"> Dhanuush Balakannan </a> </p>
 <p> <a href="https://www.linkedin.com/in/selin-yalman-0511/"> Selin Yalman </a> </p>
+<p> <a href="https://www.linkedin.com/in/dharshanadhanasekar20sept2001/"> Dharshana Dhanasekar </a> </p>
+<p> <a href="https://www.linkedin.com/in/disa-stephensen/"> Disa Stephensen </a> </p>
 
 <h4> BS Students </h4>
 <p> <a href="https://www.linkedin.com/in/vanessamarrone"> Vanessa Marrone </a> </p>
