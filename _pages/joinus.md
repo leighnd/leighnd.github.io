@@ -1,6 +1,6 @@
 ---
 layout: home
-description: salamander regeneration jobs positions postdoc graduate student
+description: salamander regeneration jobs positions postdoc graduate student tumor resistance
 author_profile: true
 classes: wide 
 title: Join us!
